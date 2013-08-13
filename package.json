@@ -1,0 +1,27 @@
+{
+  "name": "block-scope",
+  "version": "0.1.0",
+  "description": "A simple helper tool to create block scopes, that are easier to read than self-invoked anonymous functions.",
+  "keywords":[
+    "scope",
+    "block"
+  ],
+  "author": "Dan Larsen",
+  "maintainers": [{
+    "name": "Dan Larsen",
+    "url": "http://github.com/morphar"
+  }],
+  "repository": {
+    "type": "git",
+    "url": "http://github.com/nosco/block-scope.git"
+  },
+  "github": "http://github.com/nosco/block-scope",
+  "bugs": {
+    "url": "http://github.com/nosco/block-scope/issues"
+  },
+  "license": "MIT",
+  "main": "./index.js",
+  "engines": {
+    "node": ">=0.8.0"
+  }
+}

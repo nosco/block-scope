@@ -3,8 +3,8 @@
   "version": "0.1.0",
   "description": "A simple helper tool to create block scopes, that are easier to read than self-invoked anonymous functions.",
   "keywords":[
-    "scope",
-    "block"
+    "block",
+    "scope"
   ],
   "author": "Dan Larsen",
   "maintainers": [{

@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.org/nosco/block-scope.png?branch=master)](https://travis-ci.org/nosco/block-scope)
+
 # block-scope
 
 A simple helper tool to create block scopes, that are easier to read than self-invoked anonymous functions.

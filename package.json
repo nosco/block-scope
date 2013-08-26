@@ -19,6 +19,13 @@
   "bugs": {
     "url": "http://github.com/nosco/block-scope/issues"
   },
+  "devDependencies": {
+    "mocha": "1.12.0",
+    "chai": "1.7.2"
+  },
+  "scripts": {
+    "test": "mocha -d --reporter spec"
+  },
   "license": "MIT",
   "main": "./index.js",
   "engines": {

@@ -23,7 +23,7 @@ blockScope(argument1, argument2, function(argument1, argument2) {
 
   // Code that needs local scope.
   // This creates a nice overview of what is put in
-  // and what names it get, inside the the function
+  // and what names it get, inside the function
 
 });
 ```
@@ -32,3 +32,6 @@ blockScope(argument1, argument2, function(argument1, argument2) {
 
 	npm install block-scope
 
+### Example
+
+You can find an example in [./examples/example1.js](./examples/example1.js)
